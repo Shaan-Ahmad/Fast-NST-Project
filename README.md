@@ -4,7 +4,7 @@
 
 ---
 
-## ✨ What is This Project?
+## What is This Project?
 
 This project lets you take a photograph (the **style image**) and apply its artistic look to a live webcam video in real-time.
 
@@ -17,7 +17,7 @@ It uses a deep learning model to instantly paint a video feed with the textures 
 
 ---
 
-## ⚙️ Setup and Installation
+## Setup and Installation
 
 ### Prerequisites
 You need a system with Python 3, Git, and a working **NVIDIA GPU** with the correct drivers (CUDA).
